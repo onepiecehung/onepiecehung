@@ -9,9 +9,9 @@
 
 <p align="center"><img src="https://github-readme-stats-five-lyart.vercel.app/api?username=onepiecehung&show_icons=true" alt="gargakshit" /> </p>
 
-<img src="https://wakatime.com/share/@ds112/e3737b58-90ad-48ed-be2d-c10fb43ae391.svg">
+<!-- <img src="https://wakatime.com/share/@ds112/e3737b58-90ad-48ed-be2d-c10fb43ae391.svg"> -->
 
-<img src="https://wakatime.com/share/@ds112/e02619fd-386c-4d58-82c3-d736b7ced539.svg">
+<!-- <img src="https://wakatime.com/share/@ds112/e02619fd-386c-4d58-82c3-d736b7ced539.svg"> -->
 
 <img src="https://wakatime.com/share/@ds112/36f45041-df97-4fb8-a410-65e95abe4ef4.svg">
 
