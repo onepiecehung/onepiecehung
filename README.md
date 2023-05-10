@@ -7,7 +7,7 @@
 -->
 
 </p>
-<img align="right" width="auto" height="200" src="./maid.gif" />
+<img align="right" width="auto" height="160" src="./maid.gif" />
 <p align="left"><img src="https://github-readme-stats-five-lyart.vercel.app/api?username=onepiecehung&show_icons=true" alt="gargakshit" /> </p>
 
 
