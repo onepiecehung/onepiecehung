@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 <p align="center">
   
   <!--
@@ -6,8 +7,9 @@
 -->
 
 </p>
+<img align="right" width="auto" height="200" src="./maid.gif" />
+<p align="left"><img src="https://github-readme-stats-five-lyart.vercel.app/api?username=onepiecehung&show_icons=true" alt="gargakshit" /> </p>
 
-<p align="center"><img src="https://github-readme-stats-five-lyart.vercel.app/api?username=onepiecehung&show_icons=true" alt="gargakshit" /> </p>
 
 <!-- <img src="https://wakatime.com/share/@ds112/e3737b58-90ad-48ed-be2d-c10fb43ae391.svg"> -->
 
