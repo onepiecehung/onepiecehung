@@ -8,7 +8,7 @@
 
 </p>
 <img align="right" width="auto" height="160" src="./maid.gif" />
-<p align="left"><img src="https://github-readme-stats-five-lyart.vercel.app/api?username=onepiecehung&show_icons=true" alt="gargakshit" /> </p>
+<p align="left"><img src="https://github-readme-stats-psi-bay.vercel.app/api?username=onepiecehung&show_icons=true" alt="onepiecehung" /> </p>
 
 
 <!-- <img src="https://wakatime.com/share/@ds112/e3737b58-90ad-48ed-be2d-c10fb43ae391.svg"> -->
