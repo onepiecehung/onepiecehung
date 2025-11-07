@@ -7,7 +7,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=onepiecehung&theme=flat&no-frame=false&no-bg=true&column=5&margin-w=15&margin-h=15&title=MultiLanguage,Repositories,Experience,Stars,Commit">
 </p>
 
-<img src="https://wakatime.com/share/@ds112/36f45041-df97-4fb8-a410-65e95abe4ef4.svg">
+<!-- <img src="https://wakatime.com/share/@ds112/36f45041-df97-4fb8-a410-65e95abe4ef4.svg"> -->
+<img src="https://wakatime.com/share/@ds112/382439fb-213f-4796-afe0-c294e8490466.svg">
 
 <p align="center">
   
